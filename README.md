@@ -18,7 +18,7 @@ Here you'll find practical projects, experiments, and ideas I'm testing and buil
 ![IoT](https://img.shields.io/badge/IoT-00b894?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠️ Technologies I Use
+### 🛠️ Tools I Use
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
